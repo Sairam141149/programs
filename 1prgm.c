@@ -75,7 +75,7 @@ else
 { 
 printf("\n request exceeds maximum request");
  exit(0);
- }.
+ }
  }
  void out() 
 {
